@@ -8,6 +8,6 @@ public class javaprgm {
 		// TODO Auto-generated method stub
 		public String a;
 		System.out.println(a);
-
+		System.out.println(b);
 }
 }
